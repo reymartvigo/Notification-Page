@@ -27,7 +27,7 @@ Live Site URL: https://inquisitive-lily-35ce2f.netlify.app/
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
--JavaScript
+- JavaScript
 
 ### Author
  Frontend Mentor - [@reymartvigo] https://www.frontendmentor.io/profile/reymartvigo
