@@ -1,8 +1,8 @@
-# Notification-Page
+### Notification-Page
 
 This is a solution to the [Notifications page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-# The challenge
+### The challenge
 
 Users should be able to:
 
@@ -12,15 +12,15 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 
-# Screenshot
+### Screenshot
 ![inquisitive-lily-35ce2f netlify app_](https://user-images.githubusercontent.com/111113305/192674102-d93bd05a-8c31-4e6f-be63-dd2c31ba8955.png)
 
 
-# Links
+### Links
 
 Live Site URL: https://inquisitive-lily-35ce2f.netlify.app/
 
-# Built with
+### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -29,5 +29,5 @@ Live Site URL: https://inquisitive-lily-35ce2f.netlify.app/
 - Mobile-first workflow
 -JavaScript
 
-# Author
+### Author
  Frontend Mentor - [@reymartvigo] https://www.frontendmentor.io/profile/reymartvigo
